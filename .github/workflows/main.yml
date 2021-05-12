@@ -15,6 +15,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.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 }}
           #CUSTOM_DOMAIN: optionaldomain.com
-          CONFIG_FILE: /root/mkdocs.yml
+          CONFIG_FILE: /mkdocs.yml
           EXTRA_PACKAGES: build-base
           # GITHUB_DOMAIN: github.myenterprise.com
