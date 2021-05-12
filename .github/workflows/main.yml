@@ -1,0 +1,20 @@
+
+name: Publish docs via GitHub Pages
+on: workflow_dispatch
+
+jobs:
+  build:
+    name: Deploy docs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v2
+
+      - name: Deploy docs
+        uses: mhausenblas/mkdocs-deploy-gh-pages@nomaterial
+        env:
+          GITHUB_TOKEN: ${{ PERSONAL_TOKEN.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 }}
+          CUSTOM_DOMAIN: optionaldomain.com
+          CONFIG_FILE: mkdocs.yml
+          EXTRA_PACKAGES: build-base
+          # GITHUB_DOMAIN: github.myenterprise.com
