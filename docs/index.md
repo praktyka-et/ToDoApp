@@ -30,3 +30,4 @@
 1. nie wiem
 1. nie wieme
 1. nie wieme
+1. nie wieme
