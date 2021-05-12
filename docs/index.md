@@ -1,4 +1,4 @@
-# Zalożenia XDDDDDDDDDDDDDDDDD
+# Zalożenia XDDDDDDDDDDDDDDDD
 
 
 
