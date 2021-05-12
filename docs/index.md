@@ -2,7 +2,7 @@
 
 
 
-## Założenia funckjonalne XDDDDDDDDDDDD
+## Założenia funckjonalne 
 1. Dodawanie Itemów do listy
      - Będzie one wykonywane po kliknięciu przycisku na stronie, każde poszczególne zadanie będzie wpisane do listy która znajduje się pod przyciskiem. Itemy te będą zapisywać się w liście ul> jako elementy li
      - Wraz z dodaniem elemntu powinniśmy mieć również możliwość ustalenia daty(terminu) do jakiego musi zostać wykonany, który będzie później widniał obok elementu na liście
@@ -27,3 +27,4 @@
      - Dane będą zapisywane w poszczególnych tabelach bazy danych o odpowiendich nazwach, każda poszczególna informacja taka jak np: nazwa użytkownika, będzie widniała w pojedynczym rekordzie w bazie
 1. szczegóły 
      - Aplikacja w polu inputu po wpisaniu zadania które chcemy dodać do listy powinna wykasować informacje z inputa dla większego komfortu korzystania z aplikacji, aplikacja oczywiście powinna nie odświeżać na nowo okna przeglądarki za każdym razem jak dodamy zadanie do listy  
+1. nie wiem
