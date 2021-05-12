@@ -28,3 +28,4 @@
 1. szczegóły 
      - Aplikacja w polu inputu po wpisaniu zadania które chcemy dodać do listy powinna wykasować informacje z inputa dla większego komfortu korzystania z aplikacji, aplikacja oczywiście powinna nie odświeżać na nowo okna przeglądarki za każdym razem jak dodamy zadanie do listy  
 1. nie wiem
+1. nie wieme
