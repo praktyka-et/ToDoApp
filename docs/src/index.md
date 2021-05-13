@@ -2,7 +2,7 @@
 
 
 
-## Założenia funckjonalne eeee
+## Założenia funckjonalne eeeeeeeeeeeeee
 1. Dodawanie Itemów do listy
      - Będzie one wykonywane po kliknięciu przycisku na stronie, każde poszczególne zadanie będzie wpisane do listy która znajduje się pod przyciskiem. Itemy te będą zapisywać się w liście ul> jako elementy li
      - Wraz z dodaniem elemntu powinniśmy mieć również możliwość ustalenia daty(terminu) do jakiego musi zostać wykonany, który będzie później widniał obok elementu na liście
