@@ -1,4 +1,6 @@
 site_name: MkLorum
+docs_dir: ./src
+site_dir: ./site
 nav:
     - zalozenia: index.md
     - projekt: projekt.md
